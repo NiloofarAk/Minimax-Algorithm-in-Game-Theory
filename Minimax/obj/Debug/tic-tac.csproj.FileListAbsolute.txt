@@ -1,0 +1,5 @@
+e:\tic-tac\tic-tac\bin\Debug\tic-tac.exe
+e:\tic-tac\tic-tac\bin\Debug\tic-tac.pdb
+e:\tic-tac\tic-tac\obj\Debug\ResolveAssemblyReference.cache
+e:\tic-tac\tic-tac\obj\Debug\tic-tac.exe
+e:\tic-tac\tic-tac\obj\Debug\tic-tac.pdb
